@@ -1,0 +1,560 @@
+/*
+  Template Name: NEXUS - Software, App, SaaS & Startup Landing Pages Pack
+  Theme URL: https://themeforest.net/user/jthemes
+  Description: NEXUS - Software, App, SaaS & Startup Landing Pages Pack
+  Author: JThemes
+  Author URL: https://themeforest.net/user/jthemes
+  Version: 1.0.0
+  Website: www.jthemes.com
+  Tags: Responsive, HTML5, JThemes, One Page, Landing, Software, Mobile App, SaaS, Startup, Creative, Freelancers, Digital Product
+*/
+
+@media (min-width: 992px) and (max-width: 1199.95px) {
+  .desktoplogo img { 
+    max-height: 34px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > a { 
+    margin: 0 3px; 
+    padding: 10px 15px;
+  }
+
+  .wsmenu > .wsmenu-list > li a.btn { 
+    font-size: 16px; 
+    line-height: 30px; 
+    margin-top: 14px; 
+    padding: 4px 23px; 
+  }
+
+  .wsmenu > .wsmenu-list > li a.header-store { 
+    margin: 10px 0 0 12px; 
+  }
+}
+/* ------------------------------------------------------------------------ */
+
+@media (min-width: 768px) and (max-width: 991.95px) {   
+  .wsactive .tra-menu .wsmobileheader,
+  .wsactive .white-menu .wsmobileheader {
+    background: #1a1b1d;
+  }
+
+  .tra-menu .wsmenu > .wsmenu-list > li > a, 
+  .dark-menu .wsmenu > .wsmenu-list > li > a,
+  .tra-menu.navbar-light .scroll .wsmenu > .wsmenu-list > li a { 
+    color: #fff; 
+  }
+
+  body.rtl .header .wsmobileheader { 
+    text-align: left!important; 
+  }
+
+  body.rtl .wsmenu > .wsmenu-list > li { 
+    float: none; 
+  }
+
+  .headtoppart { 
+    display: none; 
+  }
+
+  .wsmobileheader { 
+    height: 80px; 
+    box-shadow: 0 0 2px rgba(50, 50, 50, 0.4); 
+  }
+
+  .tra-menu .wsmobileheader, 
+  .white-menu .wsmobileheader { 
+    background-color: #fff; 
+  }
+
+  .wsactive .tra-menu .wsmobileheader {
+    background: #1a1b1d;
+  }
+
+  body.rtl .tra-menu .wsmobileheader, 
+  body.rtl .white-menu .wsmobileheader { 
+    background-color: #fff; 
+  }
+
+  .dark-menu .wsmobileheader { 
+    background-color: #222227; 
+  }
+
+  .wsanimated-arrow { 
+    padding: 14px 22px 14px 0px;
+    margin: 24px 28px 0 0; 
+  }
+
+  .wsanimated-arrow span:before { 
+    top: -8px; 
+    width: 26px; 
+  }
+
+  .wsanimated-arrow span:after { 
+    bottom: -8px; 
+    width: 20px; 
+  }
+
+  .dark-menu .wsanimated-arrow span, 
+  .dark-menu .wsanimated-arrow span:before, 
+  .dark-menu .wsanimated-arrow span:after { 
+    background: #eee; 
+  }
+
+  .wsactive .wsanimated-arrow span:before, 
+  .wsactive .wsanimated-arrow.active span:after { 
+    width: 28px; 
+    top: 0; 
+  }
+
+  .wsactive .wsanimated-arrow span:after { 
+    width: 28px; 
+    top: 0; 
+  }
+  .wsactive .wsanimated-arrow span { 
+    background: transparent; 
+  }
+
+  .wsmenu > .wsmenu-list > li.mg_link:hover > a:after { 
+    display: none; 
+  }
+
+  .wsmenu > .wsmenu-list > li > .wsmenu-click { 
+    height: 52px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > a { 
+    font-size: 18px; 
+    padding: 7px 32px 6px 20px; 
+    margin: 0;
+    line-height: 38px; 
+  }
+
+  body.rtl .wsmenu > .wsmenu-list > li > a { 
+    font-size: 19px; 
+    padding: 7px 42px 6px 20px; 
+    margin: 0; 
+  }
+
+  .wsmenu > .wsmenu-list > li > .wsmenu-click > i { 
+    margin: 17px 18px 0px 0px;
+    height: 10px; 
+    width: 10px;
+  }
+
+  .wsmenu > .wsmenu-list > li .wsmenu-click.ws-activearrow > i { 
+    transform: rotate(-45deg); 
+    margin-top: 23px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a:before { 
+    font-size: 1.05rem; 
+    left: 5px; top: 14px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a:hover:before { 
+    left: 17px; 
+  }
+
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a { 
+    color: #fff; 
+    font-size: 18px; 
+    padding: 10px 0; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a:hover { 
+    background-color: transparent; 
+    padding: 12px 0 12px 8px; 
+    text-decoration: none; 
+  }
+
+  .wsmenu > .wsmenu-list > li.header-phone > a { 
+    font-size: 19px; 
+    padding: 7px 32px 6px 15px; 
+    margin: 0; 
+  }
+
+  .wsmenu > .wsmenu-list > li.header-phone > a span { 
+    width: 24px; 
+    height: 24px;
+    line-height: 25px;
+    top: 3px; 
+  }
+
+  .wsmenu > .wsmenu-list > li a.btn { 
+    height: 60px; 
+    font-size: 19px;
+    line-height: 60px; 
+    font-weight: 500;
+    padding: 0 17px; 
+    margin: 0;
+    text-align: center;
+  }
+
+  .wsmenu > .wsmenu-list > li a.header-store { 
+    margin: 25px 0 0 12px; 
+    display: block;
+    float: none; 
+    border-bottom: none; 
+  }
+
+  .wsmenu > .wsmenu-list > li.header-socials { 
+    display: block; 
+    margin-top: 5px; 
+  }
+
+  .white-color.header-socials span { 
+    color: #463853!important; 
+  }
+
+  .header-socials a { 
+    line-height: 90px!important; 
+    margin-left: 25px; 
+  }
+
+  .wsmobileheader .smllogo { 
+    display: block; 
+    margin-top: 19px; 
+    padding-left: 22px; 
+  }
+
+  .smllogo img { 
+    width: auto; 
+    max-width: inherit; 
+    max-height: 40px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu { 
+    top: 5px; 
+    -webkit-border-radius: 0; 
+    -moz-border-radius: 0; 
+    -o-border-radius: 0;
+    border-radius: 0; 
+    -webkit-box-shadow: 0 0; 
+    -moz-box-shadow: 0 0; 
+    box-shadow: 0 0; 
+    border-bottom: 1px solid #ddd; 
+  }
+}
+
+/* ------------------------------------------------------------------------ */
+@media (max-width: 767px) {
+  .search-form .search-field {
+    max-width: 210px;
+  }
+
+  .ico-bkg {
+    left: 0;
+  }
+
+  body.rtl .header .wsmobileheader { 
+    text-align: left!important; 
+  }
+
+  body.rtl .wsmenu > .wsmenu-list > li { 
+    float: none; 
+  }
+
+  .headtoppart { 
+    display: none; 
+  }
+
+  .wsmobileheader { 
+    height: 80px; 
+    box-shadow: 0 0 2px rgba(50, 50, 50, 0.4); 
+  }
+
+  .logged-in.admin-bar .wsmobileheader {
+    top: 46px;
+  }
+
+  .logged-in.admin-bar .wsmobileheader.scroll {
+    top: 0;
+  }
+
+  .tra-menu .wsmobileheader,
+  .white-menu .wsmobileheader { 
+    background-color: #fff; 
+  }
+
+  .wsactive .tra-menu .wsmobileheader,
+  .wsactive .white-menu .wsmobileheader {
+    background: #1a1b1d;
+  }
+
+  .dark-menu .wsmobileheader { 
+    background-color: #222227; 
+  }
+
+  .wsanimated-arrow { 
+    padding: 14px 22px 14px 0px; 
+    margin: 24px 28px 0 0;
+  }
+
+  .wsanimated-arrow span:before { 
+    top: -8px; 
+    width: 26px; 
+  }
+
+  .wsanimated-arrow span:after { 
+    bottom: -8px; 
+    width: 20px; 
+  }
+
+  .dark-menu .wsanimated-arrow span, .dark-menu .wsanimated-arrow span:before, 
+  .dark-menu .wsanimated-arrow span:after { 
+    background: #eee; 
+  }
+
+  .wsactive .wsanimated-arrow span:before, 
+  .wsactive .wsanimated-arrow.active span:after { 
+    width: 28px; 
+    top: 0; 
+  }
+
+  .wsactive .wsanimated-arrow span:after { 
+    width: 28px; 
+    top: 0; 
+  }
+
+  .wsactive .wsanimated-arrow span { 
+    background: transparent; 
+  }
+
+  .wsmenu > .wsmenu-list > li.mg_link:hover > a:after { 
+    display: none; 
+  }
+
+  .wsmenu > .wsmenu-list > li > .wsmenu-click { 
+    height: 52px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > a { 
+    font-size: 18px; 
+    padding: 7px 32px 6px 20px; 
+    margin: 0;
+    line-height: 38px;
+  }
+
+  body.rtl .wsmenu > .wsmenu-list > li > a { 
+    font-size: 19px; 
+    padding: 7px 42px 6px 20px; 
+    margin: 0; 
+  }
+
+  .tra-menu .wsmenu > .wsmenu-list > li > a, 
+  .dark-menu .wsmenu > .wsmenu-list > li > a,
+  .tra-menu.navbar-light .scroll .wsmenu > .wsmenu-list > li a { 
+    color: #fff; 
+  }
+
+  .wsmenu > .wsmenu-list > li > .wsmenu-click > i { 
+    margin: 17px 18px 0px 0px;
+    height: 10px; 
+    width: 10px;
+  }
+
+  .wsmenu > .wsmenu-list > li .wsmenu-click.ws-activearrow > i { 
+    transform: rotate(-45deg); 
+    margin-top: 23px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a:before { 
+    font-size: 1.05rem; 
+    left: 5px; 
+    top: 14px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a:hover:before { 
+    left: 17px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a { 
+    color: #fff; 
+    font-size: 16px; 
+    padding: 10px 0; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a:hover { 
+    background-color: transparent; 
+    padding: 12px 0 12px 8px; 
+    text-decoration: none; 
+  }
+
+  .wsmenu > .wsmenu-list > li.header-phone > a { 
+    font-size: 19px; 
+    padding: 7px 32px 6px 15px; 
+    margin: 0; 
+  }
+
+  .wsmenu > .wsmenu-list > li.header-phone > a span { 
+    width: 24px; 
+    height: 24px;
+    line-height: 25px;
+    top: 3px; 
+  }
+
+  .wsmenu > .wsmenu-list > li a.btn { 
+    height: 60px; 
+    font-size: 19px;
+    line-height: 60px; 
+    font-weight: 500;
+    padding: 0 17px; 
+    margin: 0;
+    text-align: center;
+  }
+
+  .wsmenu > .wsmenu-list > li a.header-store { 
+    margin: 25px 0 0 12px; 
+    display: block;
+    float: none; 
+    border-bottom: none; 
+  }
+
+  .wsmenu > .wsmenu-list > li.header-socials { 
+    display: block; 
+    margin-top: 5px; 
+  }
+
+  .white-color.header-socials span { 
+    color: #463853!important; 
+  }
+
+  .header-socials a { 
+    line-height: 90px!important; 
+    margin-left: 25px; 
+  }
+
+  .wsmobileheader .smllogo { 
+    display: block; 
+    margin-top: 19px; 
+    padding-left: 22px; 
+  }
+
+  .smllogo img { 
+    width: auto; 
+    max-width: inherit; 
+    max-height: 40px; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu { 
+    top: 5px; 
+    -webkit-border-radius: 0; 
+    -moz-border-radius: 0; 
+    -o-border-radius: 0;
+    border-radius: 0; 
+    -webkit-box-shadow: 0 0; 
+    -moz-box-shadow: 0 0; 
+    box-shadow: 0 0; 
+    border-bottom: 1px solid #ddd; 
+  }
+
+  .wsmenu > .wsmenu-list > li > ul.sub-menu:before { 
+    display: none; 
+  }
+}
+
+/* ------------------------------------------------------------------------ */
+@media (min-width: 480px) and (max-width: 767.95px) {
+  .search-form .search-field {
+    max-width: 200px;
+  }
+
+  .ts-0 { 
+    padding-top: 80px; 
+  }
+
+}
+
+/* ------------------------------------------------------------------------ */
+@media (min-width: 414px) and (max-width: 479.95px) {
+  .search-form .search-field {
+    max-width: 190px;
+  }
+
+  .ts-0 { 
+    padding-top: 80px; 
+  }
+}
+
+/* ------------------------------------------------------------------------ */
+@media (min-width: 321px) and (max-width: 413.95px) {
+  .search-form .search-field {
+    max-width: 180px;
+  }
+
+  .ts-0 { 
+    padding-top: 80px; 
+  }
+
+  .wsmenu > .wsmenu-list { 
+    width: 290px; 
+    margin-right: -290px; 
+  }
+
+  .wsactive .wsmobileheader { 
+    margin-right: 290px; 
+  }
+
+  .overlapblackbg { 
+    width: calc(100% - 290px); 
+  }
+
+  .wsanimated-arrow { 
+    padding: 14px 30px 14px 0px; 
+    margin: 25px 18px 0 0; 
+  }
+
+  .wsmobileheader .smllogo { 
+    display: block; 
+    margin-top: 22px; 
+    padding-left: 18px; 
+  }
+
+  .smllogo img { 
+    width: auto; 
+    max-width: inherit; 
+    max-height: 36px; 
+  }
+}
+
+/* ------------------------------------------------------------------------ */
+@media (max-width: 320.95px) {  
+  .search-form .search-field {
+    max-width: 180px;
+  }
+
+  .ts-0 { 
+    padding-top: 80px; 
+  }
+
+  .wsmenu > .wsmenu-list { 
+    width: 250px; 
+    margin-right: -250px; 
+  }
+
+  .wsactive .wsmobileheader {
+     margin-right: 250px; 
+  }
+
+  .overlapblackbg { 
+    width: calc(100% - 250px); 
+  }
+
+  .wsanimated-arrow { 
+    padding: 14px 30px 14px 0px; 
+    margin: 25px 18px 0 0; 
+  }
+
+  .wsmobileheader .smllogo { 
+    display: block; 
+    margin-top: 23px; 
+    padding-left: 18px; 
+  }
+
+  .smllogo img { 
+    width: auto; 
+    max-width: inherit; 
+    max-height: 34px; 
+  }
+}
