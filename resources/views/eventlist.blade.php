@@ -1292,7 +1292,7 @@
     <link rel='stylesheet' id='nexus-main-css' href='wp-content/themes/nexus/css/main.css' type='text/css'
         media='all' />
     <link rel='stylesheet' id='nexus-responsive-css' href='wp-content/themes/nexus/css/responsive.css' type='text/css'
-        media='all' />
+        media='all' />ka
     <link rel='stylesheet' id='nexus-style-css' href='wp-content/themes/nexus/style6c2d.css?ver=6.8.2' type='text/css'
         media='all' />
     <link rel='stylesheet' id='nexus-custom-banner-style-css'

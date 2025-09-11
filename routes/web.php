@@ -79,3 +79,9 @@ Route::get('/pricing', function () {
 });
 
 
+route::get('/allevent',function(){
+return view('new_event');
+
+
+});
+
