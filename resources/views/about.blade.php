@@ -1,7 +1,7 @@
 @extends('layout.app')
 
 @section('main')
-    <div class="inner-header-area page-header topbar-show with-banner">
+    {{-- <div class="inner-header-area page-header topbar-show with-banner">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -15,8 +15,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div><!-- /.page-header -->
+        {{-- </div>
+    </div>\ --}} 
 
 
 
@@ -79,7 +79,9 @@
                         data-id="c1bbead" data-element_type="container">
                         <div class="elementor-element elementor-element-b8bda90 elementor-widget elementor-widget-nexus-title"
                             data-id="b8bda90" data-element_type="widget" data-widget_type="nexus-title.default">
-                            <div class="elementor-widget-container">
+
+
+                            {{-- <div class="elementor-widget-container">
                                 <div class="heading1 nexus-heading text-left">
                                     <h5 class="sub-title aos-init aos-animate" data-aos="fade-left" data-aos-duration="800">
                                         <img loading="lazy" decoding="async" width="20" height="20"
@@ -95,7 +97,27 @@
                                         exchange ideas, foster collaboration. </p>
                                 </div>
                             </div>
+                        </div> --}}
+
+
+                        <div class="elementor-widget-container">
+                            <div class="heading1 nexus-heading text-left">
+                                <h5 class="sub-title aos-init aos-animate" data-aos="fade-left" data-aos-duration="800">
+                                    <img loading="lazy" decoding="async" width="20" height="20"
+                                        src="wp-content/uploads/2025/07/sub-logo2.svg" class="attachment-full size-full"
+                                        alt="" /> Engaging and Personable
+                                </h5>
+                                <div class="space_div"></div>
+                                <h2 class="text-anime-style-3 nexus_title">
+                                    Discover Who We Are and What a Drives Us
+                                </h2>
+                                <p class="aos-init aos-animate" data-aos="fade-left" data-aos-duration="900">
+                                    At EventSphere, we believe in the power of connection. As a comprehensive college event management platform, our mission is to bring students, faculty, and staff together to exchange ideas, foster collaboration, and create meaningful campus experiences. We transform traditional event management by providing a centralized digital solution that eliminates communication gaps, reduces manual processes, and ensures no one misses out on important college events, conferences, and activities.
+                                </p>
+                            </div>
                         </div>
+
+
                         <div class="elementor-element elementor-element-83e11ff e-con-full e-flex e-con e-child"
                             data-id="83e11ff" data-element_type="container">
                             <div class="elementor-element elementor-element-693f9ea elementor-widget elementor-widget-nexus_about_box"
@@ -152,12 +174,12 @@
                             <div class="elementor-widget-container">
                                 <div class="btn-area1 aos-init aos-animate" data-aos="fade-left"
                                     data-aos-duration="1200">
-                                    <a href="indexae87.html?tribe_events=farmers-market" class="vl-btn vl-btn1">
+                                    {{-- <a href="indexae87.html?tribe_events=farmers-market" class="vl-btn vl-btn1">
                                         <span class="nisoz-btn__shape"></span>
                                         <span class="nisoz-btn__shape"></span>
                                         <span class="nisoz-btn__shape"></span>
                                         <span class="nisoz-btn__shape"></span>
-                                        <span class="vl-btn1__text">Grab Your Ticket</span>
+                                        {{-- <span class="vl-btn1__text">Grab Your Ticket</span> --}}
                                     </a>
                                 </div>
                             </div>
@@ -166,103 +188,12 @@
                 </div>
             </div>
         </div>
-        <div class="elementor-element elementor-element-7549b5e e-flex e-con-boxed e-con e-parent" data-id="7549b5e"
-            data-element_type="container">
-            <div class="e-con-inner">
-                <div class="elementor-element elementor-element-9689561 elementor-widget elementor-widget-nexus-title"
-                    data-id="9689561" data-element_type="widget" data-widget_type="nexus-title.default">
-                    <div class="elementor-widget-container">
-                        <div class="nexus-heading heading-title text-center">
-                            <h1 class="text-anime-style-3 nexus_title">
-                                Together with Our Sponsors </h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-6c4e71a e-grid e-con-boxed e-con e-child"
-                    data-id="6c4e71a" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-74ec211 elementor-widget elementor-widget-nexus_brand_image"
-                            data-id="74ec211" data-element_type="widget" data-widget_type="nexus_brand_image.default">
-                            <div class="elementor-widget-container">
 
-                                <div class="brand-section-area">
-                                    <div class="all-boxes-area aos-init aos-animate" data-aos="fade-left"
-                                        data-aos-duration="1000">
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="134" height="38"
-                                                src="wp-content/uploads/2025/07/elements9.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="133" height="38"
-                                                src="wp-content/uploads/2025/07/elements10.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="156" height="38"
-                                                src="wp-content/uploads/2025/07/elements11.png"
-                                                class="attachment-full size-full" alt=""
-                                                srcset="https://jthemes.net/themes/wp/nexus/wp-content/uploads/2025/07/elements11.png 156w, https://jthemes.net/themes/wp/nexus/wp-content/uploads/2025/07/elements11-150x38.png 150w"
-                                                sizes="(max-width: 156px) 100vw, 156px" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="156" height="38"
-                                                src="wp-content/uploads/2025/07/elements12.png"
-                                                class="attachment-full size-full" alt=""
-                                                srcset="https://jthemes.net/themes/wp/nexus/wp-content/uploads/2025/07/elements12.png 156w, https://jthemes.net/themes/wp/nexus/wp-content/uploads/2025/07/elements12-150x38.png 150w"
-                                                sizes="(max-width: 156px) 100vw, 156px" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="150" height="38"
-                                                src="wp-content/uploads/2025/07/elements13.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                    </div>
-                                </div>
 
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-2c7fbe6 elementor-widget elementor-widget-nexus_brand_image"
-                            data-id="2c7fbe6" data-element_type="widget" data-widget_type="nexus_brand_image.default">
-                            <div class="elementor-widget-container">
 
-                                <div class="brand-section-area">
-                                    <div class="all-boxes-area aos-init aos-animate" data-aos="fade-right"
-                                        data-aos-duration="1000">
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="144" height="38"
-                                                src="wp-content/uploads/2025/07/elements14.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="150" height="38"
-                                                src="wp-content/uploads/2025/07/elements15.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="160" height="38"
-                                                src="wp-content/uploads/2025/07/elements16.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="140" height="38"
-                                                src="wp-content/uploads/2025/07/elements17.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                        <div class="brand-boxarea">
-                                            <img loading="lazy" decoding="async" width="141" height="38"
-                                                src="wp-content/uploads/2025/07/elements18.png"
-                                                class="attachment-full size-full" alt="" />
-                                        </div>
-                                    </div>
-                                </div>
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
         <div class="elementor-element elementor-element-3e3d340 e-con-full e-flex e-con e-parent" data-id="3e3d340"
             data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="elementor-element elementor-element-1b53d40 elementor-absolute elementor-widget elementor-widget-image"

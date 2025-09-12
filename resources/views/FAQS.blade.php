@@ -71,7 +71,16 @@
 							<div class="e-n-accordion" aria-label="Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys">
 						<details id="e-n-accordion-item-2160" class="e-n-accordion-item" open>
 				<summary class="e-n-accordion-item-title" data-accordion-index="1" tabindex="0" aria-expanded="true" aria-controls="e-n-accordion-item-2160" >
-					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text">                                               What is the Business World Event (2K25)? </div></span>
+					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> 
+						
+						
+						
+						
+						
+						What is EventSphere?
+						
+					
+					</div></span>
 							<span class='e-n-accordion-item-title-icon'>
 			<span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-up" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm231-113.9L103.5 277.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L256 226.9l101.6 101.6c9.4 9.4 24.6 9.4 33.9 0l17-17c9.4-9.4 9.4-24.6 0-33.9L273 142.1c-9.4-9.4-24.6-9.4-34 0z"></path></svg></span>
 			<span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-down" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zM273 369.9l135.5-135.5c9.4-9.4 9.4-24.6 0-33.9l-17-17c-9.4-9.4-24.6-9.4-33.9 0L256 285.1 154.4 183.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9L239 369.9c9.4 9.4 24.6 9.4 34 0z"></path></svg></span>
@@ -82,30 +91,62 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-7686561 elementor-widget elementor-widget-text-editor" data-id="7686561" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>The Business World Event (2K25) is a global conference that brings together industry leaders, entrepreneurs, and innovators the explore the latest best trends, strategies.</p>								</div>
+					<p>EventSphere is a comprehensive college event management platform that brings together students, faculty, and organizers to discover, register for, and manage campus events seamlessly. It transforms traditional manual event processes into a modern digital solution for better campus engagement.</p>							</div>
 				</div>
 					</div>
 				</div>
 					</details>
 						<details id="e-n-accordion-item-2161" class="e-n-accordion-item" >
+
+
+
+
+
+
+
 				<summary class="e-n-accordion-item-title" data-accordion-index="2" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-2161" >
-					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> When and where will the event take place? </div></span>
+					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text">
+
+
+						  When and where will the event take place?
+						
+						</div></span>
 							<span class='e-n-accordion-item-title-icon'>
 			<span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-up" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm231-113.9L103.5 277.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L256 226.9l101.6 101.6c9.4 9.4 24.6 9.4 33.9 0l17-17c9.4-9.4 9.4-24.6 0-33.9L273 142.1c-9.4-9.4-24.6-9.4-34 0z"></path></svg></span>
 			<span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-down" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zM273 369.9l135.5-135.5c9.4-9.4 9.4-24.6 0-33.9l-17-17c-9.4-9.4-24.6-9.4-33.9 0L256 285.1 154.4 183.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9L239 369.9c9.4 9.4 24.6 9.4 34 0z"></path></svg></span>
 		</span>
 
 						</summary>
+
+
+
+
+
+
+
 				<div role="region" aria-labelledby="e-n-accordion-item-2161" class="elementor-element elementor-element-5207043 e-con-full e-flex e-con e-child" data-id="5207043" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-3a1f1da elementor-widget elementor-widget-text-editor" data-id="3a1f1da" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>The Business World Event (2K25) is a global conference that brings together industry leaders, entrepreneurs, and innovators the explore the latest best trends, strategies.</p>								</div>
+
+
+					<p>Event dates and venues vary depending on the specific event you're interested in. All upcoming events with their complete schedules, timings, and venue details are available on the EventSphere platform. Simply browse the events section to find location and timing information for each event.</p>	
+								
+								
+								</div>
 				</div>
 				</div>
 					</details>
 						<details id="e-n-accordion-item-2162" class="e-n-accordion-item" >
 				<summary class="e-n-accordion-item-title" data-accordion-index="3" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-2162" >
-					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How can I register for the event? </div></span>
+					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> 
+						
+						
+						
+						
+						How can I register for the event? 
+					
+					
+					</div></span>
 							<span class='e-n-accordion-item-title-icon'>
 			<span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-up" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm231-113.9L103.5 277.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L256 226.9l101.6 101.6c9.4 9.4 24.6 9.4 33.9 0l17-17c9.4-9.4 9.4-24.6 0-33.9L273 142.1c-9.4-9.4-24.6-9.4-34 0z"></path></svg></span>
 			<span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-down" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zM273 369.9l135.5-135.5c9.4-9.4 9.4-24.6 0-33.9l-17-17c-9.4-9.4-24.6-9.4-33.9 0L256 285.1 154.4 183.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9L239 369.9c9.4 9.4 24.6 9.4 34 0z"></path></svg></span>
@@ -115,13 +156,35 @@
 				<div role="region" aria-labelledby="e-n-accordion-item-2162" class="elementor-element elementor-element-72fba06 e-con-full e-flex e-con e-child" data-id="72fba06" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-0392e3a elementor-widget elementor-widget-text-editor" data-id="0392e3a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>The Business World Event (2K25) is a global conference that brings together industry leaders, entrepreneurs, and innovators the explore the latest best trends, strategies.</p>								</div>
+								
+				
+				
+				
+				
+					<p>Registration is simple through the EventSphere platform. Create an account or log in, browse available events, and click "Register" on your desired event. You'll receive confirmation with event details and a QR code for check-in. Registration is subject to seat availability and event eligibility requirements.</p>
+				</div>
+				
+				
+				
+				
+				
+				</div>
 				</div>
 				</div>
 					</details>
 						<details id="e-n-accordion-item-2163" class="e-n-accordion-item" >
 				<summary class="e-n-accordion-item-title" data-accordion-index="4" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-2163" >
-					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Are there any sponsorship opportunities? </div></span>
+					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> 
+						
+						
+						
+				
+					 Are there any sponsorship opportunities?
+					
+					
+					
+					
+					</div></span>
 							<span class='e-n-accordion-item-title-icon'>
 			<span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-up" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm231-113.9L103.5 277.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L256 226.9l101.6 101.6c9.4 9.4 24.6 9.4 33.9 0l17-17c9.4-9.4 9.4-24.6 0-33.9L273 142.1c-9.4-9.4-24.6-9.4-34 0z"></path></svg></span>
 			<span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-down" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zM273 369.9l135.5-135.5c9.4-9.4 9.4-24.6 0-33.9l-17-17c-9.4-9.4-24.6-9.4-33.9 0L256 285.1 154.4 183.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9L239 369.9c9.4 9.4 24.6 9.4 34 0z"></path></svg></span>
@@ -131,13 +194,13 @@
 				<div role="region" aria-labelledby="e-n-accordion-item-2163" class="elementor-element elementor-element-f750ee7 e-con-full e-flex e-con e-child" data-id="f750ee7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-999a674 elementor-widget elementor-widget-text-editor" data-id="999a674" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>The Business World Event (2K25) is a global conference that brings together industry leaders, entrepreneurs, and innovators the explore the latest best trends, strategies.</p>								</div>
+					<p>Yes, we welcome sponsorship partnerships for college events organized through EventSphere. Companies and organizations can sponsor events to connect with students and faculty. For sponsorship inquiries, please contact our event organizers through the platform or reach out to the college administration for partnership opportunities.</p>								</div>
 				</div>
 				</div>
 					</details>
 						<details id="e-n-accordion-item-2164" class="e-n-accordion-item" >
 				<summary class="e-n-accordion-item-title" data-accordion-index="5" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-2164" >
-					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Will there be networking opportunities? </div></span>
+					<span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Will Will there be networking opportunities? </div></span>
 							<span class='e-n-accordion-item-title-icon'>
 			<span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-up" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm231-113.9L103.5 277.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L256 226.9l101.6 101.6c9.4 9.4 24.6 9.4 33.9 0l17-17c9.4-9.4 9.4-24.6 0-33.9L273 142.1c-9.4-9.4-24.6-9.4-34 0z"></path></svg></span>
 			<span class='e-closed'><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-circle-down" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zM273 369.9l135.5-135.5c9.4-9.4 9.4-24.6 0-33.9l-17-17c-9.4-9.4-24.6-9.4-33.9 0L256 285.1 154.4 183.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9L239 369.9c9.4 9.4 24.6 9.4 34 0z"></path></svg></span>
@@ -147,7 +210,7 @@
 				<div role="region" aria-labelledby="e-n-accordion-item-2164" class="elementor-element elementor-element-6b46ccd e-con-full e-flex e-con e-child" data-id="6b46ccd" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-93214bb elementor-widget elementor-widget-text-editor" data-id="93214bb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>The Business World Event (2K25) is a global conference that brings together industry leaders, entrepreneurs, and innovators the explore the latest best trends, strategies.</p>								</div>
+					<p>Yes, networking is a key feature of events hosted on EventSphere. Students can connect with peers, faculty, industry guests, and alumni during dedicated networking sessions, workshop breaks, and social events. The platform also enables participants to view attendee lists and connect with fellow participants before and after events.</p>								</div>
 				</div>
 				</div>
 					</details>

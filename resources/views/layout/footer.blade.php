@@ -8,10 +8,10 @@
                             <h2 class="wp-block-heading">Concert Details</h2>
                         </div>
                         <div id="block-8" class="footer-widget widget_block widget_text">
-                            <p>14 Feb, 2025</p>
+                            <p>12 Sep, 2025</p>
                         </div>
                         <div id="block-9" class="footer-widget widget_block widget_text">
-                            <p>Harmony Arena, 123 Music Lane, Downtown, Melbourne, Australia.</p>
+                            <p>Karachi SFC Pakistan Aptech</p>
                         </div>
                         <div id="block-10" class="footer-widget widget_block">
                             <div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -33,19 +33,19 @@
                                 <ul id="menu-quick-links" class="menu">
                                     <li id="menu-item-4288"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4288">
-                                        <a href="index.html">Home</a>
+                                        <a href="{{('/')}}">Home</a>
                                     </li>
                                     <li id="menu-item-4286"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4286">
-                                        <a href="indexbdd3.html?page_id=3721">Memories</a>
+                                        <a href="{{url('/memories')}}">Memories</a>
                                     </li>
                                     <li id="menu-item-155"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
-                                        <a href="index57fd.html?page_id=63">Pricing Plan</a>
+                                        <a href="{{url('/pricing')}}">Pricing Plan</a>
                                     </li>
                                     <li id="menu-item-156"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156">
-                                        <a href="indexcc8a.html?page_id=61">Contact Us</a>
+                                        <a href="{{url('/contact')}}">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>
@@ -91,23 +91,23 @@
                                 <ul id="menu-contact-us" class="menu">
                                     <li id="menu-item-163"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163">
-                                        <a href="tel:123456789"><i class="fas fa-phone-alt"></i>+1 123 456
+                                        <a href="tel:123456789"><i class="fas fa-phone-alt"></i>+92 112212000
                                             7890</a>
                                     </li>
                                     <li id="menu-item-167"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167">
                                         <a href="indexcc8a.html?page_id=61"><i class="fas fa-location-dot"></i>
-                                            Secret Location In The UK</a>
+                                            Secret Location Karachi pk </a>
                                     </li>
                                     <li id="menu-item-168"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168">
-                                        <a href="mailto:Nexusconferences@com"><i class="fas fa-envelope"></i>
-                                            Nexusconferences@com</a>
+                                        <a href="mailto:eventsphere.admin@gmail.com"><i class="fas fa-envelope"></i>
+                                            eventsphere.admin@gmail.com</a>
                                     </li>
                                     <li id="menu-item-169"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-169">
                                         <a href="index.html"><i class="fas fa-globe"></i>
-                                            Nexusconferences.com</a>
+                                            eventsphere.pk</a>
                                     </li>
                                     <li id="menu-item-170"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-170">

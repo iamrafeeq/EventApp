@@ -80,8 +80,7 @@
                                                             class="tribe-common-anchor-alt tribe-tickets__commerce-checkout-cart-empty-description-link">browse
                                                             events</a> and add tickets to check out.</div>
                                                 </div>
-                                                <footer class="tribe-tickets__commerce-checkout-footer">
-                                                </footer>
+                                           
                                             </section>
                                         </div>
 

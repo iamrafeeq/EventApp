@@ -1222,13 +1222,6 @@
             }
 
 
-
-
-
-
-
-
-
             <style>.event-filters-container {
                 background: #f8f9fa;
                 padding: 30px 0;
