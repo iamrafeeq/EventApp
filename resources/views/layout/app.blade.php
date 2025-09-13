@@ -38,7 +38,7 @@
 
         @include('layout.header')
 
-
+{{-- @include('/sitemap') --}}
         @yield('main')
 
         

@@ -85,3 +85,11 @@ return view('new_event');
 
 });
 
+
+
+
+route::get('/sitemap',function(){
+return view('sitemap');
+
+
+});

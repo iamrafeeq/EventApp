@@ -18,9 +18,9 @@
                         </div>
                         <div id="jthemes_button_widget-2" class="footer-widget widget_jthemes_button_widget">
                             <div class="btn-area1">
-                                <a href="index57fd.html?page_id=63" class="vl-btn3">Buy Ticket <span
-                                        class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span
-                                        class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></a>
+                                <a href="index57fd.html?page_id=63" class="vl-btn3">Buy Ticket <span class="arrow1"><i
+                                            class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i
+                                            class="fa-solid fa-arrow-right"></i></span></a>
                             </div>
                         </div>
                     </div>
@@ -33,19 +33,19 @@
                                 <ul id="menu-quick-links" class="menu">
                                     <li id="menu-item-4288"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4288">
-                                        <a href="{{('/')}}">Home</a>
+                                        <a href="{{ '/' }}">Home</a>
                                     </li>
                                     <li id="menu-item-4286"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4286">
-                                        <a href="{{url('/memories')}}">Memories</a>
+                                        <a href="{{ url('/memories') }}">Memories</a>
                                     </li>
                                     <li id="menu-item-155"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
-                                        <a href="{{url('/pricing')}}">Pricing Plan</a>
+                                        <a href="{{ url('/sitemap') }}">sitemap</a>
                                     </li>
                                     <li id="menu-item-156"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156">
-                                        <a href="{{url('/contact')}}">Contact Us</a>
+                                        <a href="{{ url('/contact') }}">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>
@@ -65,8 +65,8 @@
                                     </li>
                                     <li id="menu-item-160"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160">
-                                        <a href="https://www.linkedin.com/"><i
-                                                class="fa-brands fa-linkedin-in"></i> LinkedIn</a>
+                                        <a href="https://www.linkedin.com/"><i class="fa-brands fa-linkedin-in"></i>
+                                            LinkedIn</a>
                                     </li>
                                     <li id="menu-item-161"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161">
@@ -111,8 +111,8 @@
                                     </li>
                                     <li id="menu-item-170"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-170">
-                                        <a href="index57fd.html?page_id=63"><i
-                                                class="fas fa-money-bill-wave"></i> Buy Your Tickets Now</a>
+                                        <a href="index57fd.html?page_id=63"><i class="fas fa-money-bill-wave"></i> Buy
+                                            Your Tickets Now</a>
                                     </li>
                                 </ul>
                             </div>
